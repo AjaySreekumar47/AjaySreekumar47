@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Ajay Sreekumar 👋
 
-<!--
-**AjaySreekumar47/AjaySreekumar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI/ML engineer and research-oriented systems builder focused on multimodal AI, vision-language models, agentic systems, and production ML infrastructure.
 
-Here are some ideas to get you started:
+My work spans surgical scene segmentation, zero-shot VLM evaluation, LLM reliability, MLOps pipelines, and applied machine learning systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Vision-language models for surgical segmentation
+- Prompt-based and zero-shot segmentation evaluation
+- Agentic AI systems and LLM reliability
+- MLOps pipelines with cloud-native deployment
+- Applied ML projects with production-style dashboards
+
+## Featured Work
+
+- **VLM Surgical Segmentation Research**  
+  Evaluation frameworks for zero-shot and prompt-based surgical segmentation.
+
+- **Uncertainty Quantification for Code Translation**  
+  Research work involving LLM reliability, compiler feedback, and evaluation.
+
+- **MLOps Recommender Pipeline**  
+  End-to-end ML pipeline using feature engineering, orchestration, deployment, and monitoring concepts.
+
+- **Customer Analytics & Segmentation Dashboard**  
+  RFM analysis, clustering, churn modeling, and Streamlit dashboarding.
+
+## Tech Stack
+
+**Languages:** Python, SQL, R, C++, JavaScript  
+**ML/AI:** PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV  
+**Data/MLOps:** Spark, Airflow, MLflow, Docker, FastAPI, Streamlit  
+**Cloud:** Google Cloud, Vertex AI, AWS basics  
+**Analytics:** Power BI, Tableau, Excel
+
+## GitHub Stats
+
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaySreekumar47&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaySreekumar47&layout=compact)
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
+- Portfolio: YOUR-PORTFOLIO-LINK
+- Google Scholar: YOUR-SCHOLAR-LINK
