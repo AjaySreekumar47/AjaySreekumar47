@@ -42,6 +42,6 @@ My work spans surgical scene segmentation, zero-shot VLM evaluation, LLM reliabi
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
-- Portfolio: YOUR-PORTFOLIO-LINK
-- Google Scholar: YOUR-SCHOLAR-LINK
+- LinkedIn: https://www.linkedin.com/in/ajay-sreekumar-nmims/
+- Portfolio: https://ajaysreekumar47.github.io/
+- Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=OQlVXzYAAAAJ
