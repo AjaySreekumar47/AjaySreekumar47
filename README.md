@@ -36,9 +36,10 @@ My work spans surgical scene segmentation, zero-shot VLM evaluation, LLM reliabi
 
 ## GitHub Stats
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaySreekumar47&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaySreekumar47&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AjaySreekumar47&show_icons=true&theme=default&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaySreekumar47&layout=compact&hide_border=true" height="170">
+</p>
 
 ## Connect
 
