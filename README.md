@@ -1,48 +1,35 @@
-# Hi, I'm Ajay Sreekumar 👋
+# Ajay Sreekumar
 
-I'm an AI/ML engineer and research-oriented systems builder focused on multimodal AI, vision-language models, agentic systems, and production ML infrastructure.
+### Forward Deployed Engineer | Applied AI, systems integration, and customer delivery
 
-My work spans surgical scene segmentation, zero-shot VLM evaluation, LLM reliability, MLOps pipelines, and applied machine learning systems.
+I build practical AI systems that connect models to real workflows—working across APIs, data, cloud infrastructure, and deployment. I’m pursuing Forward Deployed Engineer roles where I can work closely with customers to understand problems, ship solutions, and improve them in production.
 
-## Current Focus
+## Current focus
 
-- Vision-language models for surgical segmentation
-- Prompt-based and zero-shot segmentation evaluation
-- Agentic AI systems and LLM reliability
-- MLOps pipelines with cloud-native deployment
-- Applied ML projects with production-style dashboards
+- Agentic systems with observable workflows, evidence, and evaluation
+- Backend and API integration, including data and identity boundaries
+- Cloud infrastructure, deployment, and production readiness
+- Translating customer needs into working technical solutions
 
-## Featured Work
+## Featured work
 
-- **VLM Surgical Segmentation Research**  
-  Evaluation frameworks for zero-shot and prompt-based surgical segmentation.
+- [**Scientific Document AI Knowledge Graph**](https://github.com/AjaySreekumar47/scientific-doc-ai-kg) — Multi-agent PDF processing with FastAPI, evidence validation, GraphDB, and provenance-backed answers.
+- [**Agentic Memory System**](https://github.com/AjaySreekumar47/agentic-memory-system) — Implements and evaluates structured memory, memory linking, and intent-aware retrieval against a vector baseline.
+- **Production systems delivery** — Recent work across agent APIs, SQL query routing, authorization, cloud infrastructure, and deployment workflows.
+- **MCP Flight Search Agent** — Built an MCP-connected flight-search agent and traced its tool interaction with Weave.
 
-- **Uncertainty Quantification for Code Translation**  
-  Research work involving LLM reliability, compiler feedback, and evaluation.
+## Credential
 
-- **MLOps Recommender Pipeline**  
-  End-to-end ML pipeline using feature engineering, orchestration, deployment, and monitoring concepts.
+**W&B AI Engineering: Agents** — Certificate earned September 28, 2026.
 
-- **Customer Analytics & Segmentation Dashboard**  
-  RFM analysis, clustering, churn modeling, and Streamlit dashboarding.
+## Tools I work with
 
-## Tech Stack
-
-**Languages:** Python, SQL, R, C++, JavaScript  
-**ML/AI:** PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV  
-**Data/MLOps:** Spark, Airflow, MLflow, Docker, FastAPI, Streamlit  
-**Cloud:** Google Cloud, Vertex AI, AWS basics  
-**Analytics:** Power BI, Tableau, Excel
-
-## GitHub Stats
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AjaySreekumar47)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AjaySreekumar47)
-
+**Languages:** Python, C#, SQL, JavaScript  
+**AI & integration:** LLM agents, MCP, FastAPI, Hugging Face, Ollama  
+**Data & infrastructure:** Azure, Azure SQL, PostgreSQL, Docker, Terraform, GraphDB, SPARQL, Kusto
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/ajay-sreekumar-nmims/
-- Portfolio: https://ajaysreekumar47.github.io/
-- Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=OQlVXzYAAAAJ
+- [LinkedIn](https://www.linkedin.com/in/ajay-sreekumar-nmims/)
+- [Portfolio](https://ajaysreekumar47.github.io/)
+- [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=OQlVXzYAAAAJ)
