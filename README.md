@@ -2,7 +2,7 @@
 
 ### Forward Deployed Engineer | Applied AI, systems integration, and customer delivery
 
-I build practical AI systems that connect models to real workflows—working across APIs, data, cloud infrastructure, and deployment. I’m pursuing Forward Deployed Engineer roles where I can work closely with customers to understand problems, ship solutions, and improve them in production.
+I build practical AI systems that connect models to real workflows—working across APIs, data, cloud infrastructure, and deployment. I’m a Forward Deployed Engineer roles where I can work closely with customers to understand problems, ship solutions, and improve them in production.
 
 ## Current focus
 
